@@ -1,0 +1,18 @@
+{
+    "concesionario": {
+        "coches": [
+            {
+                "id": "c1",
+                "marca": "toyota",
+                "modelo": "corolla",
+                "electrico": false
+            },
+            {
+                "id": "c2",
+                "marca": "tesla",
+                "modelo": "Model 3",
+                "electrico": true
+            }
+        ]
+    }
+}
